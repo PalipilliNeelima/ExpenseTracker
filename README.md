@@ -1,16 +1,45 @@
-# Expense Tracker (Java)
+EXPENSE TRACKER
+A Java-based application to help users track and manage their personal finances. This project demonstrates object-oriented programming, data handling, and basic reporting.
 
-A simple console-based Expense Tracker written in Java.  
-It allows users to add, view, and save expenses with categories and dates.
+Tech Stack:
 
-## Features
-- Add new expenses
-- View all expenses
-- Save expenses to a file (optional)
+Language: Java
 
-## How to Run
-1. Clone the repo
-2. Open a terminal inside the project folder
-3. Compile the code:
-   ```bash
-   javac src/ExpenseTracker.java
+IDE: VS Code / IntelliJ IDEA
+
+Data Storage: File-based (or explain if using ArrayLists for simplicity)
+
+Features:
+
+Add, edit, and delete income and expense entries.
+
+Categorize transactions for better financial management.
+
+Calculate total income, total expenses, and balance.
+
+Display a summary report of financial activity.
+
+User-friendly console-based interface for simplicity.
+
+Key Concepts Demonstrated:
+
+Object-Oriented Programming (Classes, Objects, Methods)
+
+Data storage and manipulation
+
+Basic report generation
+
+Problem-solving and logical thinking
+
+How to Run:
+
+Clone the repository:
+
+git clone []
+
+
+Open in your Java IDE (VS Code, IntelliJ, etc.)
+
+Compile and run Main.java
+
+Follow console prompts to add, view, or delete transactions
