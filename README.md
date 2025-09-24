@@ -35,7 +35,7 @@ How to Run:
 
 Clone the repository:
 
-git clone []
+git clone [https://github.com/PalipilliNeelima/ExpenseTracker/tree/main/src]
 
 
 Open in your Java IDE (VS Code, IntelliJ, etc.)
@@ -43,3 +43,4 @@ Open in your Java IDE (VS Code, IntelliJ, etc.)
 Compile and run Main.java
 
 Follow console prompts to add, view, or delete transactions
+
